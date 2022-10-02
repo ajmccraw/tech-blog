@@ -2,23 +2,23 @@ const { Post } = require('../models');
 
 const postData = [
   {
-    title: "Rick James is a genius",
-    blog_contents: "I'm rick James, bitch",
+    title: "Coding for the beginner",
+    blog_contents: "Knowing where to start is the hard part.",
     user_id: "1"
   },
   {
-    title: "Elon Musk for president?",
-    blog_contents: "I like space and a hyperloop",
+    title: "Coding websites",
+    blog_contents: "Have you heard MDN?",
     user_id: "2"
   },
   {
-    title: "Qanon was right all along",
-    blog_contents: "just keep trusting the plan",
+    title: "Coding Tools",
+    blog_contents: "VS Code is your new best friend",
     user_id: "3"
   },
   {
-    title: "Little Orphan Annie's secret message",
-    blog_contents: "Don't forget to drink your ovaltine",
+    title: "Managing your time",
+    blog_contents: "Creating a schedule to get your work done is probably best.",
     user_id: "4"
   },
 
