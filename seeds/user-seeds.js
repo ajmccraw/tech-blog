@@ -2,24 +2,24 @@ const { User } = require('../models');
 
 const userData = [
   {
-    username: "Rick James",
-    email: "imrickjames@bitch.com",
-    password: "123456789"
+    username: "Michael Scott",
+    email: "michaelscott@gmail.com",
+    password: "password"
   },
   {
-    username: "Kim Kardashian",
-    email: "imtheworst@badperson.com",
-    password: "abcdefg"
+    username: "Dwight Schrute",
+    email: "dwightschrute@yahoo.com",
+    password: "password1"
   },
   {
-    username: "Patrick Stewart",
-    email: "awesome@theinternetlovesme.com",
-    password: "makeitso"
+    username: "Pam Beesly",
+    email: "pbeesly@hotmail.com",
+    password: "password2"
   },
   {
-    username: "Bernie Sanders",
-    email: "bernie@burlingtoncoatfactory.com",
-    password: "mittens"
+    username: "Jan Levinson",
+    email: "jlevinson@gmail.com",
+    password: "password3"
   },
 
 
